@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! I'm Yurii
 
-<!--
-**Yurii-N/Yurii-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Python developer with an interest in Data Science.  
+🎓 Currently studying Economics and Management.
 
-Here are some ideas to get you started:
+## 🔧 My Hard Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, OOP, algorithms  
+- NumPy, Matplotlib  
+- Scikit-learn, XGBoost  
+- SQL (SQLite)  
+
+## 🧠 Projects:
+
+- [AI Image Classifier](https://github.com/Yurii-N/first_repository.git) — a machine learning model that identifies the content of photos.
+
+## 📫 Contact: [Telegram](https://t.me/lEbZHiKl)
