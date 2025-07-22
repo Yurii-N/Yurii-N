@@ -7,7 +7,6 @@
 
 - Python, OOP, algorithms  
 - NumPy, Matplotlib  
-- Scikit-learn, XGBoost  
 - SQL (SQLite)  
 
 ## 💬 Soft Skills:
