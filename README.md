@@ -10,6 +10,16 @@
 - Scikit-learn, XGBoost  
 - SQL (SQLite)  
 
+## 💬 Soft Skills:
+
+- Adaptability  
+- Self-motivation  
+- Discipline & Time Management  
+- Cognitive flexibility  
+- Problem solving  
+- Teamwork  
+- Communication  
+
 ## 🧠 Projects:
 
 - [AI Image Classifier](https://github.com/Yurii-N/first_repository.git) — a machine learning model that identifies the content of photos.
